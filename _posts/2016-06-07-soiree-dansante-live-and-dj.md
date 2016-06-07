@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-07T09:53:15.669Z'
+datePublished: '2016-06-07T11:48:33.821Z'
+sourcePath: _posts/2016-06-07-soiree-dansante-live-and-dj.md
 author: []
-dateModified: '2016-06-07T09:48:53.156Z'
-title: ''
+dateModified: '2016-06-07T11:48:33.323Z'
+title: LA SOIREE DANSANTE LIVE & DJ
 description: 'Une belle salle très bien décorée par notre mariée du jour, Céline.'
 starred: false
-sourcePath: _posts/2016-06-07-soiree-dansante-live-and-dj.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,6 +14,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# LA SOIREE DANSANTE LIVE & DJ
+
+## Domain de la Cacharde à St Peray
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b157284-709a-42e8-b6b2-f9e5fd82badc.jpg)
 
 Une belle salle très bien décorée par notre mariée du jour, Céline.
