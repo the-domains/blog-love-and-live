@@ -2,23 +2,16 @@
     <channel>
         <title><![CDATA[BLOG LOVE AND LIVE]]></title>
         <description><![CDATA[BLOG LOVE AND LIVE]]></description>
-        <link>https://thegrid.ai/blog-love-and-live/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 09:53:15 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/blog-love-and-live/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 Jun 2016 09:53:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cérémonie religieuse]]></title>
             <description><![CDATA[<article><h1>Cérémonie religieuse</h1><p>Céline & David ont souhaité que nous intervenions pour les chants de cérémonie de leur mariage religieux.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ef1812-2342-4b74-a482-c3096f4ce788.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blog-love-and-live/ceremonie-religieuse/index.html</link>
+            <link>undefinedceremonie-religieuse/index.html</link>
             <guid isPermaLink="false">24928814-14dc-43ae-8c1a-a2cfc2ad4638</guid>
             <pubDate>Tue, 07 Jun 2016 09:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vin d'honneur avec Betty Lascene]]></title>
-            <description><![CDATA[<article><h1>Vin d'honneur avec Betty Lascene</h1><p>Pour Céline & David, nous avons installé Betty, notre caravane scene Airstream la veille du mariage dans le parc du Domaine de la Cacharde à St Peray, en Ardèche , à côté de Valence. Le sol était enneigé de pollen qui tombait des peupliers.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b7885d8-dfd1-46a1-8647-fc5c553d3478.jpg"></article>]]></description>
-            <link>https://thegrid.ai/blog-love-and-live/vin-dhonneur-avec-betty-lascene/index.html</link>
-            <guid isPermaLink="false">9f8ebb2a-9fa7-409c-8031-55b76451327c</guid>
-            <pubDate>Tue, 07 Jun 2016 09:53:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
