@@ -1,14 +1,14 @@
-layout_spectrum: 0.28108182828873396
-typography_spectrum: 0.6421949889045209
+layout_spectrum: 0.2782556035090238
+typography_spectrum: 0.9636313763912767
 color:
-  brandStrength: 0.607899060472846
-  lightness: 0.5216773888096213
-  saturation: 0.8319104914553463
-  rhythmicContrast: 0.4660265799611807
+  brandStrength: 0.41474546515382826
+  lightness: 0.9170594143215567
+  saturation: 0.5837035693693906
+  rhythmicContrast: 0.2633703495375812
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: BLOG LOVE AND LIVE
