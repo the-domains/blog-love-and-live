@@ -1,21 +1,18 @@
 ---
+datePublished: '2016-07-18T08:00:15.594Z'
+sourcePath: _posts/2016-07-18-mariage-de-thomas-and-arnaud-aux-domaines-de-patras.md
+hasPage: true
+author:
+  - name: ''
+dateModified: '2016-07-18T07:57:49.542Z'
+title: 'Mariage de Thomas & Arnaud, aux Domaines de PATRAS'
 description: >-
   Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar ,
   lors d’une démo. Ils nous ont tout de suite fait confiance pour animer leur
   cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur
   cocktail et leur soirée dansante.
-dateModified: '2016-07-18T07:57:27.739Z'
-datePublished: '2016-07-18T07:57:34.009Z'
-title: 'Mariage de Thomas & Arnaud, aux Domaines de PATRAS'
-author:
-  - name: A.Beinfait
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/118ad984-a983-4bfe-b5fc-fb211835f5a2.jpg
-sourcePath: _posts/2016-07-18-mariage-de-thomas-and-arnaud-aux-domaines-de-patras.md
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: mariage-de-thomas-and-arnaud-aux-domaines-de-patras/index.html
 _type: MediaObject
 
 ---
