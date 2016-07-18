@@ -1,7 +1,11 @@
 ---
-description: ' Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar , lors d’une démo. Ils nous ont tout de suite fait confiance pour animer leur cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur cocktail et leur soirée dansante. '
-dateModified: '2016-07-18T07:30:06.911Z'
-datePublished: '2016-07-18T07:30:10.966Z'
+description: >-
+  Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar ,
+  lors d’une démo. Ils nous ont tout de suite fait confiance pour animer leur
+  cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur
+  cocktail et leur soirée dansante.
+dateModified: '2016-07-18T07:57:27.739Z'
+datePublished: '2016-07-18T07:57:34.009Z'
 title: 'Mariage de Thomas & Arnaud, aux Domaines de PATRAS'
 author:
   - name: A.Beinfait
@@ -22,9 +26,9 @@ _type: MediaObject
 
 ### le mariage de Thomas et Arnaud, est comme vous l'avez certainement saisi, un mariage gay.
 
-Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar , lors d'une démo. Ils nous ont tout de suite fait confiance pour animer leur cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur cocktail et leur soirée dansante. 
+Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar , lors d'une démo. Ils nous ont tout de suite fait confiance pour animer leur cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur cocktail et leur soirée dansante.
 
-Les Domaines de Patras : 'est sans aucun doute l'endroit le plus beau de la Drôme Provençale, dédié aux Mariages, tenu par un couple adorable et concerné par leur activité. 
+Les Domaines de Patras : 'est sans aucun doute l'endroit le plus beau de la Drôme Provençale, dédié aux Mariages, tenu par un couple adorable et concerné par leur activité.
 
 [http://www.lesdomainesdepatras.com][0]
 
@@ -66,5 +70,7 @@ Les deux heures trente de cocktail sont passées, et nous nous installons rapide
 ![Ouverture de bal, chantée par les perdants du concours photo organisé par les mairés](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af6ca05b-bb07-472d-ac7f-4c20979e19e2.jpg)
 
 nous avons eu la chance de vivre un mariage EXTRA -ORDINAIRE dans un lieu magique, avec un couple de mariés plus qu'attachants , des souvenirs de 4 jours de travail pour rendre cet événement aussi beau que le souhaitait Thomas & Arnaud, qui sont devenus au fil de la préparation, tout simplement des amis.
+
+Crédits photos : Alexandre Bienfait
 
 [0]: http://www.lesdomainesdepatras.com/ "salle et domaine de mariage en drome provencale"
