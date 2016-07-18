@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-18T08:00:15.594Z'
+datePublished: '2016-07-18T08:02:39.381Z'
 sourcePath: _posts/2016-07-18-mariage-de-thomas-and-arnaud-aux-domaines-de-patras.md
+inFeed: true
 hasPage: true
 author:
   - name: ''
-dateModified: '2016-07-18T07:57:49.542Z'
+dateModified: '2016-07-18T08:02:25.697Z'
 title: 'Mariage de Thomas & Arnaud, aux Domaines de PATRAS'
 description: >-
   Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar ,
@@ -13,7 +14,7 @@ description: >-
   cocktail et leur soirée dansante.
 starred: true
 url: mariage-de-thomas-and-arnaud-aux-domaines-de-patras/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Mariage de Thomas & Arnaud, aux Domaines de PATRAS
