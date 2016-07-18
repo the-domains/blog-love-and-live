@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-06-07T11:48:33.821Z'
+datePublished: '2016-07-18T07:55:50.793Z'
 sourcePath: _posts/2016-06-07-soiree-dansante-live-and-dj.md
 author: []
-dateModified: '2016-06-07T11:48:33.323Z'
+dateModified: '2016-06-17T12:59:23.741Z'
 title: LA SOIREE DANSANTE LIVE & DJ
 description: 'Une belle salle très bien décorée par notre mariée du jour, Céline.'
 starred: false
