@@ -1,18 +1,22 @@
 ---
-datePublished: '2016-07-18T08:02:39.381Z'
+datePublished: '2016-08-30T12:50:19.691Z'
 sourcePath: _posts/2016-07-18-mariage-de-thomas-and-arnaud-aux-domaines-de-patras.md
 inFeed: true
 hasPage: true
 author:
-  - name: ''
-dateModified: '2016-07-18T08:02:25.697Z'
+  - name: A.Bienfait
+via: {}
+dateModified: '2016-08-30T12:50:03.604Z'
 title: 'Mariage de Thomas & Arnaud, aux Domaines de PATRAS'
+id: 586df8ff-7bdf-46b1-92ea-4a0356bed9f6
+publisher:
+  name: LOVE AND LIVE
 description: >-
   Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar ,
   lors d’une démo. Ils nous ont tout de suite fait confiance pour animer leur
   cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur
   cocktail et leur soirée dansante.
-starred: true
+starred: false
 url: mariage-de-thomas-and-arnaud-aux-domaines-de-patras/index.html
 _type: Article
 
@@ -26,7 +30,7 @@ _type: Article
 
 Ces deux garçons nous ont rencontrés il y a maintenant un an à Montélimar , lors d'une démo. Ils nous ont tout de suite fait confiance pour animer leur cérémonie civile, leur cérémonie laïque sous les chênes de Patras, leur cocktail et leur soirée dansante.
 
-Les Domaines de Patras : 'est sans aucun doute l'endroit le plus beau de la Drôme Provençale, dédié aux Mariages, tenu par un couple adorable et concerné par leur activité.
+Les Domaines de Patras : C'est sans aucun doute l'endroit le plus beau de la Drôme Provençale, dédié aux Mariages, tenu par un couple adorable et concerné par leur activité.
 
 [http://www.lesdomainesdepatras.com][0]
 
@@ -54,6 +58,8 @@ puis entre chaque interventions : hey ya, Walking on the moon, Your Song, The Ro
 Ressenti : émotion et complicité :)
 
 A la fin de la cérémonie laïque, la famille et les amis ont été invités à se rafraîchir d'une petite limonade, tandis que nous nous installions pour animer la suite de ce mariage : le Cocktail, au côté de Stephane Mestre, le traiteur que nous avions recommandé aux Mariés.
+
+les vins et spiritueux ont été fournis par [Cave et comptoirs][1] de Montboucher sur Jabron. Précisons que Sylvain et sa merveilleuse épouse Stéphanie sont des experts aiguisés en oenologie et qu'ils reprennent les bouteilles non ouvertes.
 ![Animation de Cocktail  dans la cour aux Domaines de Patras](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7ae9f3e-6db3-4c2d-a11b-1f6b138f4def.jpg)
 
 Reprises jazzy de hits : All about that bass, get lucky, Creep,... et quelques cadeaux pour les mariés suivant leurs préférences
@@ -69,6 +75,5 @@ Les deux heures trente de cocktail sont passées, et nous nous installons rapide
 
 nous avons eu la chance de vivre un mariage EXTRA -ORDINAIRE dans un lieu magique, avec un couple de mariés plus qu'attachants , des souvenirs de 4 jours de travail pour rendre cet événement aussi beau que le souhaitait Thomas & Arnaud, qui sont devenus au fil de la préparation, tout simplement des amis.
 
-Crédits photos : Alexandre Bienfait
-
 [0]: http://www.lesdomainesdepatras.com/ "salle et domaine de mariage en drome provencale"
+[1]: http://www.cave-et-comptoirs.fr / "Cava à vin mariage"
